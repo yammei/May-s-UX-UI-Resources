@@ -1,0 +1,18 @@
+
+[####################] Fonts [####################]
+
+1. Google Fonts | https://fonts.google.com/
+    -Free downloadable fonts with varying usage rights (so make sure to read the 'README' they provide!).
+
+
+[####################] Icons [####################]
+
+1. Font Awesome | https://fontawesome.com/search/
+    -Minimalistic icons.
+    -Provides HTML/React/Vue/SVG code.
+    -Icon style modification: change color/size/rotation/icon-style/animation.
+
+[####################] Inspo [####################]
+
+1. Awwwards | https://www.awwwards.com/
+    -Lots of artistic web design.
